@@ -26,7 +26,7 @@ Q6) ¿Se logra obsevar algún pico de ventas en alguno de los doce meses del añ
 
 
 #Resultados:
-Para el desarrollo de las visualizaciones se implementó Tableau, los resultados se pueden ver a continuación:
+Para el desarrollo de las visualizaciones se implementó Tableau, los resultados se pueden ver a continuación y en el repositorio con el documento del dashboard:
 
 
 
